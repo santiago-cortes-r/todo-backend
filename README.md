@@ -7,10 +7,10 @@ npm install
 luego:
 
 ```bash
-node run start
+npm run start
 ```
 
 en modo desarrollo se ejecuta el siguiente:
 ```bash
-node run dev
+npm run dev
 ```
