@@ -2,6 +2,11 @@
 para arrancar el proyecto se debe ejecutar el siguiente comando:
 
 ```bash
+npm install
+```
+luego:
+
+```bash
 node run start
 ```
 
